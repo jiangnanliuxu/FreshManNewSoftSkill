@@ -1,0 +1,4 @@
+interface:
+  display_name: "Software Dev Guide"
+  short_description: "Document-driven multi-agent software development guide"
+  default_prompt: "Guide me through building a software project from idea to delivery using the software-dev-guide harness."
