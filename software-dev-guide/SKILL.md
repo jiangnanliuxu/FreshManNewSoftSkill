@@ -137,3 +137,4 @@ Scripts are helpers. If a script fails, explain the failure, record an exception
 - `references/tool-capabilities.md`: scripts and optional MCP capability rules.
 - `references/stitch-ui-flow.md`: Stitch enhanced UI design workflow and fallback.
 
+For human-facing setup and usage instructions, see `使用说明.md`.
